@@ -4,7 +4,6 @@ user input - "Negotiate a salary between candidate and company"
 
 Currently uses LLM-based estimation. Real data integration can be added via APIs/tools.
 
-INTERVIEW :
 I built a multi-agent negotiation system where autonomous agents with competing objectives iteratively negotiate and converge on optimal outcomes.
 
 🤖 Agents
