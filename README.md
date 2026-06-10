@@ -16,8 +16,8 @@ Wants to minimize cost
 3. Market Analyst Agent
 Provides real salary benchmarks
 
-##4. Strategy Agent
-##Suggests negotiation tactics
+4. Strategy Agent
+Suggests negotiation tactics
 
 4. Mediator Agent (🔥 key)
 Resolves conflict
